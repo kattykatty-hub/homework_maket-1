@@ -1,0 +1,233 @@
+body {
+	margin: 0;
+}
+.baseitem {
+	width: 100%;
+	min-height: 100vh;
+
+
+}
+
+.wrapblock {
+	display: flex;
+    justify-content: space-between;
+}
+.wrapheader {
+	margin:30px;
+}
+.wrapblock img {
+	height: 22px;
+}
+.greenmenu ul {
+	list-style: none;
+	display: flex;
+    min-width: 246px;
+    justify-content: space-around;
+    color: white;
+}
+
+
+.greenmenu {
+
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+
+
+}
+.greenmain {
+	display: flex;
+	margin-bottom: 30px;
+}
+.greenleft {
+	width: 50%;
+	height: 569px;
+	
+}
+.uppertxt {
+	
+	font-family: GT Super Display;
+	font-size: 107px;
+	font-weight: 900;
+	line-height: 110px;
+	letter-spacing: 2px;
+	
+}
+.leftTxt {
+	text-align: left;	
+}
+.centerTxt {
+	text-align: center;	
+}
+.pinkTxt {
+	color: #F09C96;
+}
+.whitetxt {
+	color:#FFFFFF;
+}
+.maintxt {
+	margin-left: 72px;
+}
+.greenright {
+	width: 50%;
+	height: 630px;
+
+}
+
+
+.greenitem {
+	display: inline-block;
+	background: #023A15;
+}
+.whiteitem {
+	background: #FFFFFF;
+}
+
+.pinkitem {
+	background: #FFE6E2;
+}
+.buttonfont {
+font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+}
+.conbtnwrap {
+	margin-top: 29px;
+	margin-bottom: 50px;
+}
+.mainfield {
+	margin: 30px;
+	display: flex;
+	justify-content:space-around;
+}
+.leftwhite {
+	flex-basis: 0;
+	flex-grow: 1;
+}
+.challenge {
+	width: 630px;
+}
+.greenlist{
+	width: 455px;
+}
+.rightwhite {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	flex-grow: 1;
+
+}
+.bicykle {
+	position: relative;
+	top: 100px;
+}
+.pinkwrap {
+	margin: auto;
+	position: relative;
+	top:100px;
+	text-align: center;
+}
+.pinkFont {
+	font-family: 'GT Super Display';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 61px;
+	line-height: 77px;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+.pinkwrap>p  {
+	margin: auto;
+	margin-top: 44px;
+	margin-bottom:79px;
+    width: 578px;
+}
+.pinkwrap>h3 {
+	margin: auto;
+	width:777px ;
+}
+
+.smallTextFont {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	/* or 150% */
+	
+}
+.challengeFont {
+	font-family: GT Super Display;
+	font-size: 66px;
+	font-weight: 900;
+	line-height: 84px;
+	letter-spacing: 2px;
+	text-align: left;
+
+}
+.tableContainer{
+	position: relative;
+	margin-top: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	flex-direction: row;
+
+}
+.tableItem {
+	width: 40%;
+}
+.tableTextItem {
+	padding-top: 78px;
+}
+.bigTableFont {
+font-family: GT Super Display;
+font-size: 53px;
+font-weight: 900;
+line-height: 72px;
+letter-spacing: 2px;
+text-align: left;
+}
+.tableItem>.bigTableFont {
+	width: 65%;
+	margin-block-end: 0;
+}
+
+.tableItem>.smallTextFont {
+	width:75%;
+	text-align: left;
+}
+.footerItem {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #023A15;
+
+}
+.footerMainDiv {
+	width: 800px;
+	padding-top: 119px;
+}
+.footerbtnConnectMarginTop {
+	margin-top: 41px;
+}
+.footerTxtDescribe {
+	margin-top: 13px;
+}
+.privacyTxtWrapper {
+	margin-top: 131px;
+	margin-bottom: 31px;
+}
+
+
+	
+
+
+
+
